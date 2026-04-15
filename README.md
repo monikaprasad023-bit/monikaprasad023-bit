@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋 I'm Monika Prasad N
 
-<!--
-**monikaprasad023-bit/monikaprasad023-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. Computer Science and Engineering (2027)  
+📍 Chennai, India  
 
-Here are some ideas to get you started:
+## 💻 Skills
+- Python, Java (Basics)
+- HTML, CSS
+- MySQL
+- Machine Learning (Basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+🔹 Speech Emotion Recognition using Deep Learning  
+🔹 Crime Record Management System  
+
+## 🏢 Internship
+- NSIC, Guindy – Machine Learning with Python  
+
+## 📜 Certifications
+- NPTEL: Privacy & Security in Online Social Media  
+- MSA Course – Apollo  
+
+## 🏆 Achievements
+- Presented paper at National Conference (SIMATS)
+
+## 📫 Contact
+📧 monikaprasadn@gmail.com
